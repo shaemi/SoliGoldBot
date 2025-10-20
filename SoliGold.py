@@ -5,7 +5,7 @@ import telebot
 from datetime import datetime
 import logging
 
-BOT_TOKEN = "8459800725:AAGIsNNwSm8VgG2Ty0hcL3C28uSqV8PQcVU"
+BOT_TOKEN = "xxxxxxxxxx:AAGIsNNwSm8Vxxxxx3C28uSqV8PQcVU"
 CHANNEL_ID = -1003089928796
 THREAD_ID = 87
 INTERVAL = 600 
@@ -56,3 +56,4 @@ def main_loop():
 if __name__ == "__main__":
     logging.info("ربات شروع به کار کرد ✅")
     main_loop()
+
